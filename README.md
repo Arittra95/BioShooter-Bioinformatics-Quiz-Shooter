@@ -1,5 +1,6 @@
 # BioShooter: Bioinformatics-Quiz-Shooter
 An interactive bioinformatics quiz shooter game — answer questions to defend your base and boost your science skills!
+![BioShooter Game Preview](A sleek futuristic t.png)
 
 Play the game here: https://Arittra95.github.io/BioShooter-Bioinformatics-Quiz-Shooter/
 
