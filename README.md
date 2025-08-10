@@ -1,7 +1,7 @@
 # BioShooter: Bioinformatics-Quiz-Shooter
 An interactive bioinformatics quiz shooter game — answer questions to defend your base and boost your science skills!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arittra95/BioShooter-Bioinformatics-Quiz-Shooter/main/A%20sleek%20futuristic%20t.png" alt="BioShooter Game Preview" width="800" height="800" />
+  <img src="https://raw.githubusercontent.com/Arittra95/BioShooter-Bioinformatics-Quiz-Shooter/main/A%20sleek%20futuristic%20t.png" alt="BioShooter Game Preview" width="500" height="500" />
 </p>
 
 Play the game here: https://Arittra95.github.io/BioShooter-Bioinformatics-Quiz-Shooter/
